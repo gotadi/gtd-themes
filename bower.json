@@ -1,0 +1,22 @@
+{
+  "name": "gtd-theme",
+  "description": "GTD theme",
+  "version": "0.1",
+  "main": "main.js",
+  "authors": [
+    "ThangPV"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "theme"
+  ],
+  "homepage": "https://github.com/iotsol/gtd-themes",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
